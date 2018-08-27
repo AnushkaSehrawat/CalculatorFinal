@@ -1,0 +1,36 @@
+﻿.calculator
+{
+    text-align:center;
+}
+.first-row p {
+    border: 1px solid black;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    display: inline-block;
+}
+
+.calculator td
+{
+    padding:30px;
+    font-size:30px;
+    padding-top:30px;
+   
+}
+.calculator 
+{
+    margin: 0 auto;
+}
+button
+{
+    padding:30px;
+}
+
+input[type="text"]
+{
+    padding:50px;
+    /*padding-left:100px;*/
+    margin-left:22em;
+    width:15.5em;
+    font-size:30px;
+}
